@@ -3,6 +3,4 @@ Its an Image classifier End to End Data Science project where I have gone throug
 
 I have use SVM and Logistic Regression alogorithm to classify the image got to know which will be best for my project.
 
-So after conclusion I got 85% accuracy with the logistic regression which is more compare to SVM.
-
 
