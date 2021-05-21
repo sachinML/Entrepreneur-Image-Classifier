@@ -6,9 +6,9 @@ I have used different Machine Learning algorithm to find to which is giving the 
 Technologies used-
 
 1. Prgramming Language - Python
-2. Machine Learning - Scikit learn for Model Building
-3. Image processing - OpenCV for Preprocessing and Feature Selection
-4. Web Technology - Flask, HTML5, JavaScript
+2. Machine Learning Library - Scikit learn for Model Building
+3. Image processing Library - OpenCV for Preprocessing and Feature Selection
+4. Web Technology - Flask, HTML5, JavaScript.
 
 
 
