@@ -1,7 +1,7 @@
 # Entrepreneur-Image-Classifier
-Its an Image classifier End to End where I have gone through preprocessing, datacleaning, feature selection, model building and web application.
+Its an End to End Image classifier project where I have gone through several steps like preprocessing, datacleaning, feature selection, model building and web application.
 
-I have used different Machine Learning algorithm to find to which will give the best accuracy and apply that for the Image classification such that it will give the best reult.
+I have used different Machine Learning algorithms to find out which will give the best accuracy for image classification and use that algorithm to find out the best results.
 
 Technologies used-
 
