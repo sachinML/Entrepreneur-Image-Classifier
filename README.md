@@ -5,7 +5,7 @@
 Its an End to End Image classifier Model. With the help if this probject we will correctly classify the entreprenur with the help of Machine Learning algorithm like Logistic Regression.
 
 ## Dataset
-I have collected the Dataset with the help of **Web Scrapping** which have collection of 4 diffrent Entrepreneur Images.
+I have collected the Dataset with the help of **Web Scrapping** in which there are 4 diffrent flofers of Entrepreneur with a collection of 100 Images in each.
 
 
 ## Implentation
