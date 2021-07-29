@@ -1,6 +1,10 @@
 # Entrepreneur-Image-Classifier
 ![plot](./1.png)
+
+## Description
 Its an End to End Image classifier project where I have gone through several steps like preprocessing, datacleaning, feature selection, model building and web application.
+
+Data
 
 I have used different Machine Learning algorithms to find out which will give the best accuracy for image classification and use that algorithm to find out the best results.
 
