@@ -2,15 +2,19 @@
 ![plot](./1.png)
 
 ## Description
-Its an End to End Image classifier project where I have gone through several steps like preprocessing, datacleaning, feature selection, model building and web application.
+Its an End to End Image classifier Model. With the help if this probject we will correctly classify the entreprenur with the help of Machine Learning algorithm like Logistic Regression.
 
-Data
+## Dataset
+I have collected the Dataset with the help of **Web Scrapping** which have collection of 4 diffrent Entrepreneur Images.
 
-I have used different Machine Learning algorithms to find out which will give the best accuracy for image classification and use that algorithm to find out the best results.
+
+## Implentation
+I have gone through several steps like Preprocessing, Data cleaning, Feature Engineering and Model building and the with the help of flask I have builded a web application.
+When we will classify the particular Entrepreneur Image like you can see below, it will calculate the probability value and by checking the maximum it will predict the result 
 
 ![plot](./2.png)
 
-Technologies used-
+## Technologies used
 
 1. Prgramming Language - Python 3.8
 2. Machine Learning Library - Scikit learn
