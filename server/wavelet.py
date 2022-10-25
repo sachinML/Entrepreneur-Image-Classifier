@@ -18,7 +18,7 @@ def w2d(img, mode='haar', level=1):
     coeffs_H[0] *= 0;
 
     # reconstruction
-    imArray_H=pywt.waverec2(coeffs_H, mode);
+    imArray_H=pw.waverec2(coeffs_H, mode);
     imArray_H *= 255;
     imArray_H =  np.uint8(imArray_H)
 
