@@ -11,7 +11,7 @@ def w2d(img, mode='haar', level=1):
     imArray =  np.float32(imArray)
     imArray /= 255;
     # compute coefficients
-    coeffs=pywt.wavedec2(imArray, mode, level=level)
+    coeffs=pw.wavedec2(imArray, mode, level=level)
 
     #Process Coefficients
     coeffs_H=list(coeffs)
