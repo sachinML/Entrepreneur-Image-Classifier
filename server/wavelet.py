@@ -1,5 +1,5 @@
 import numpy as np
-import pywt
+import pywt as pw
 import cv2
 
 def w2d(img, mode='haar', level=1):
