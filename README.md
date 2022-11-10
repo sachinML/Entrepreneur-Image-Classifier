@@ -10,7 +10,7 @@ I have collected the Dataset with the help of **Web Scrapping** in which there a
 
 ## Implentation
 I have gone through several steps like Preprocessing, Data cleaning, Feature Engineering and Model building and the with the help of flask I have builded a web application.
-When we will classify the particular Entrepreneur Image like you can see below, it will calculate the probability value and by checking the maximum it will predict the result 
+When we will classify the particular Entrepreneur Image like you can see below, it will calculate the probability value and by checking the maximum it will predict the result.
 
 ![plot](./2.png)
 
