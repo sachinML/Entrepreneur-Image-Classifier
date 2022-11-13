@@ -31,7 +31,7 @@ function init() {
                 $("#error").show();
                 return;
             }
-            let players = ["elon_musk", "jeff_bezos", "larry_page", "mark_zuckerberg"]
+            let players = ["elon_musk", "jeff_bezos", "larry_page", "mark_zuckerber"]
             
             let match = null;
             let bestScore = -1;
