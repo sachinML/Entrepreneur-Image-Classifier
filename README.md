@@ -14,7 +14,7 @@ When we will classify the particular Entrepreneur Image like you can see below, 
 
 ![plot](./2.png)
 
-## Technologies used
+## Technologies used-
 
 1. Prgramming Language - Python 3.8
 2. Machine Learning Library - Scikit learn
